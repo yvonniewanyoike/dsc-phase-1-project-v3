@@ -1,4 +1,4 @@
-# Aircraft Risk Assessment Project
+# Aircraft Risk Analysis Project
 
 ## Project Overview
 This project identifies the lowest-risk aircraft for the company’s new aviation division by analyzing historical flight safety data.The aviation accident historical data is from the National Transportation Safety Board(NTSB) from 1962 to 2023 and its about civil aviation accidents and selected incidents in the United States and international waters.Through thorough data cleaning, imputation, and risk assessment, I transformed raw accident records into actionable insights to guide strategic purchasing decisions and minimize operational liability.
