@@ -35,7 +35,7 @@ I worked with the following columns in this analysis:
 
 ## Data Analysis
 I was able to clean the data set by checking for missing values and duplicate values in the data set. I went a step further to feature engineer more columns in my dataset to help with further analysis and visualized various KPIs in Tableau
-https://public.tableau.com/authoring/AircraftRiskAnalysis_17663056857540/EngineTypeNo_ofEnginesvsSurvivalRate/Aircraft%20Risk%20Analysis#1
+https://public.tableau.com/app/profile/yvonnie.wanyoike/vizzes
 <img width="1499" height="1199" alt="Aircraft_Risk_Analysis" src="https://github.com/user-attachments/assets/5f65df8f-293e-40cb-9760-388e231e5f29" />
 
 
